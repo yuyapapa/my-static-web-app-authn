@@ -18,6 +18,12 @@ const data = {
       description: 'Bag of 7 fresh McIntosh apples',
       quantity: 1,
     },
+    {
+      id: 40,
+      name: '農民ロッソ',
+      description: 'ココファームワイナリーのリーズナブルな赤ワイン',
+      quantity: 5,
+    },
   ],
 };
 
